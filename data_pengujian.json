@@ -1,0 +1,702 @@
+[
+  {
+    "kecepatan_unduhan": 18.2,
+    "kecepatan_unggahan": 7.8,
+    "ping_time_ms": 70.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 36.8,
+    "kecepatan_unggahan": 19.1,
+    "ping_time_ms": 40.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 45.4,
+    "kecepatan_unggahan": 13.8,
+    "ping_time_ms": 79.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 23.1,
+    "kecepatan_unggahan": 9.9,
+    "ping_time_ms": 57.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 8.9,
+    "kecepatan_unggahan": 3.2,
+    "ping_time_ms": 90.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 32.9,
+    "kecepatan_unggahan": 16.7,
+    "ping_time_ms": 43.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 50.1,
+    "kecepatan_unggahan": 25.9,
+    "ping_time_ms": 23.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 14.9,
+    "kecepatan_unggahan": 6.7,
+    "ping_time_ms": 67.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 26.3,
+    "kecepatan_unggahan": 14.4,
+    "ping_time_ms": 49.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 42.7,
+    "kecepatan_unggahan": 10.4,
+    "ping_time_ms": 77.6,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 19.9,
+    "kecepatan_unggahan": 8.7,
+    "ping_time_ms": 60.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 6.4,
+    "kecepatan_unggahan": 2.3,
+    "ping_time_ms": 93.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 30.6,
+    "kecepatan_unggahan": 16.2,
+    "ping_time_ms": 45.6,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 51.9,
+    "kecepatan_unggahan": 26.7,
+    "ping_time_ms": 20.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 16.6,
+    "kecepatan_unggahan": 7.2,
+    "ping_time_ms": 71.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 35.1,
+    "kecepatan_unggahan": 18.6,
+    "ping_time_ms": 41.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 44.2,
+    "kecepatan_unggahan": 13.6,
+    "ping_time_ms": 80.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 22.2,
+    "kecepatan_unggahan": 9.6,
+    "ping_time_ms": 58.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 8.7,
+    "kecepatan_unggahan": 3.0,
+    "ping_time_ms": 90.1,
+    "ping_packet_loss": 100.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 32.5,
+    "kecepatan_unggahan": 16.5,
+    "ping_time_ms": 44.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 49.9,
+    "kecepatan_unggahan": 25.6,
+    "ping_time_ms": 23.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 15.8,
+    "kecepatan_unggahan": 7.0,
+    "ping_time_ms": 68.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 25.9,
+    "kecepatan_unggahan": 14.1,
+    "ping_time_ms": 49.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 43.6,
+    "kecepatan_unggahan": 10.1,
+    "ping_time_ms": 77.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 20.6,
+    "kecepatan_unggahan": 8.5,
+    "ping_time_ms": 61.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 6.5,
+    "kecepatan_unggahan": 2.2,
+    "ping_time_ms": 92.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 31.1,
+    "kecepatan_unggahan": 16.3,
+    "ping_time_ms": 45.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 52.2,
+    "kecepatan_unggahan": 26.4,
+    "ping_time_ms": 21.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 16.3,
+    "kecepatan_unggahan": 7.4,
+    "ping_time_ms": 71.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 34.6,
+    "kecepatan_unggahan": 18.4,
+    "ping_time_ms": 40.4,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 44.5,
+    "kecepatan_unggahan": 13.4,
+    "ping_time_ms": 80.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 23.6,
+    "kecepatan_unggahan": 9.4,
+    "ping_time_ms": 57.4,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 8.3,
+    "kecepatan_unggahan": 2.8,
+    "ping_time_ms": 91.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 32.0,
+    "kecepatan_unggahan": 16.8,
+    "ping_time_ms": 43.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 50.4,
+    "kecepatan_unggahan": 26.1,
+    "ping_time_ms": 22.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 15.5,
+    "kecepatan_unggahan": 6.8,
+    "ping_time_ms": 67.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 26.1,
+    "kecepatan_unggahan": 14.2,
+    "ping_time_ms": 49.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 42.4,
+    "kecepatan_unggahan": 10.3,
+    "ping_time_ms": 77.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 19.6,
+    "kecepatan_unggahan": 8.9,
+    "ping_time_ms": 60.6,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 6.1,
+    "kecepatan_unggahan": 2.1,
+    "ping_time_ms": 93.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 30.2,
+    "kecepatan_unggahan": 16.6,
+    "ping_time_ms": 44.4,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 51.6,
+    "kecepatan_unggahan": 26.8,
+    "ping_time_ms": 20.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 16.0,
+    "kecepatan_unggahan": 7.3,
+    "ping_time_ms": 70.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 34.1,
+    "kecepatan_unggahan": 18.3,
+    "ping_time_ms": 40.6,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 44.8,
+    "kecepatan_unggahan": 13.2,
+    "ping_time_ms": 80.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 23.1,
+    "kecepatan_unggahan": 9.2,
+    "ping_time_ms": 56.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 8.0,
+    "kecepatan_unggahan": 2.7,
+    "ping_time_ms": 91.9,
+    "ping_packet_loss": 90.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 31.8,
+    "kecepatan_unggahan": 16.9,
+    "ping_time_ms": 43.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 50.7,
+    "kecepatan_unggahan": 26.3,
+    "ping_time_ms": 22.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 15.2,
+    "kecepatan_unggahan": 6.6,
+    "ping_time_ms": 67.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 25.7,
+    "kecepatan_unggahan": 14.0,
+    "ping_time_ms": 49.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 42.1,
+    "kecepatan_unggahan": 10.2,
+    "ping_time_ms": 76.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 19.3,
+    "kecepatan_unggahan": 8.2,
+    "ping_time_ms": 61.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 6.0,
+    "kecepatan_unggahan": 2.0,
+    "ping_time_ms": 92.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 30.7,
+    "kecepatan_unggahan": 16.1,
+    "ping_time_ms": 45.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 52.0,
+    "kecepatan_unggahan": 26.5,
+    "ping_time_ms": 21.0,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 16.1,
+    "kecepatan_unggahan": 7.2,
+    "ping_time_ms": 70.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 34.4,
+    "kecepatan_unggahan": 18.2,
+    "ping_time_ms": 45.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 44.9,
+    "kecepatan_unggahan": 13.0,
+    "ping_time_ms": 81.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 22.6,
+    "kecepatan_unggahan": 9.1,
+    "ping_time_ms": 57.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 7.7,
+    "kecepatan_unggahan": 2.6,
+    "ping_time_ms": 93.0,
+    "ping_packet_loss": 70.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 32.4,
+    "kecepatan_unggahan": 17.1,
+    "ping_time_ms": 43.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 50.9,
+    "kecepatan_unggahan": 26.6,
+    "ping_time_ms": 22.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 18.5,
+    "kecepatan_unggahan": 7.8,
+    "ping_time_ms": 59.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 5.9,
+    "kecepatan_unggahan": 2.3,
+    "ping_time_ms": 92.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 30.0,
+    "kecepatan_unggahan": 15.8,
+    "ping_time_ms": 44.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 51.5,
+    "kecepatan_unggahan": 26.7,
+    "ping_time_ms": 21.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 15.7,
+    "kecepatan_unggahan": 7.0,
+    "ping_time_ms": 70.0,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 34.8,
+    "kecepatan_unggahan": 18.1,
+    "ping_time_ms": 40.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 45.2,
+    "kecepatan_unggahan": 13.5,
+    "ping_time_ms": 80.4,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 22.9,
+    "kecepatan_unggahan": 9.3,
+    "ping_time_ms": 57.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 7.9,
+    "kecepatan_unggahan": 2.5,
+    "ping_time_ms": 92.6,
+    "ping_packet_loss": 80.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 32.2,
+    "kecepatan_unggahan": 16.8,
+    "ping_time_ms": 43.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 18.5,
+    "kecepatan_unggahan": 7.8,
+    "ping_time_ms": 59.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 5.9,
+    "kecepatan_unggahan": 2.3,
+    "ping_time_ms": 92.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 30.0,
+    "kecepatan_unggahan": 15.8,
+    "ping_time_ms": 44.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 51.5,
+    "kecepatan_unggahan": 26.7,
+    "ping_time_ms": 21.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 15.7,
+    "kecepatan_unggahan": 7.0,
+    "ping_time_ms": 70.0,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 34.8,
+    "kecepatan_unggahan": 18.1,
+    "ping_time_ms": 40.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 45.2,
+    "kecepatan_unggahan": 13.5,
+    "ping_time_ms": 80.4,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 22.9,
+    "kecepatan_unggahan": 9.3,
+    "ping_time_ms": 57.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 7.9,
+    "kecepatan_unggahan": 2.5,
+    "ping_time_ms": 92.6,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 32.2,
+    "kecepatan_unggahan": 16.8,
+    "ping_time_ms": 43.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 12.3,
+    "kecepatan_unggahan": 4.5,
+    "ping_time_ms": 75.6,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 28.4,
+    "kecepatan_unggahan": 14.2,
+    "ping_time_ms": 47.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 53.1,
+    "kecepatan_unggahan": 27.8,
+    "ping_time_ms": 19.4,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 14.5,
+    "kecepatan_unggahan": 6.3,
+    "ping_time_ms": 63.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 38.6,
+    "kecepatan_unggahan": 20.3,
+    "ping_time_ms": 36.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 48.9,
+    "kecepatan_unggahan": 23.7,
+    "ping_time_ms": 24.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 20.8,
+    "kecepatan_unggahan": 8.7,
+    "ping_time_ms": 50.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 8.7,
+    "kecepatan_unggahan": 3.1,
+    "ping_time_ms": 88.2,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 27.1,
+    "kecepatan_unggahan": 13.9,
+    "ping_time_ms": 50.6,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 43.2,
+    "kecepatan_unggahan": 12.9,
+    "ping_time_ms": 85.1,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 24.2,
+    "kecepatan_unggahan": 10.2,
+    "ping_time_ms": 58.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 6.3,
+    "kecepatan_unggahan": 2.1,
+    "ping_time_ms": 95.3,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 30.5,
+    "kecepatan_unggahan": 15.4,
+    "ping_time_ms": 42.8,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 10.7,
+    "kecepatan_unggahan": 4.9,
+    "ping_time_ms": 78.9,
+    "ping_packet_loss": 0.0,
+    "penilaian": "lambat"
+  },
+  {
+    "kecepatan_unduhan": 33.8,
+    "kecepatan_unggahan": 17.2,
+    "ping_time_ms": 39.4,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  },
+  {
+    "kecepatan_unduhan": 50.7,
+    "kecepatan_unggahan": 25.6,
+    "ping_time_ms": 22.7,
+    "ping_packet_loss": 0.0,
+    "penilaian": "cepat"
+  },
+  {
+    "kecepatan_unduhan": 16.8,
+    "kecepatan_unggahan": 7.5,
+    "ping_time_ms": 68.5,
+    "ping_packet_loss": 0.0,
+    "penilaian": "sedang"
+  }
+]
