@@ -4,7 +4,7 @@
 
 demo => https://youtu.be/RFudBVQI03k
 
-Kikisan adalah sisten scraping data produk dari tokopedia.com yang terdiri dari 7 metode, dan menggunakan microservice sebagai struktur di sistemnya.
+Metode ini menggunakan library Playwright untuk melakukan scraping secara Asynchronous. Playwright adalah alat yang dikembangkan khusus untuk mengotomatisasi browser, sehingga memungkinkan scraping data dengan mengakses elemen DOM dan menjalankan JavaScript di dalamnya seperti melakukan scroling secara otomatis.
 
 ### frontend
 kikisan.site :  https://github.com/codedaffa/kikisan.git
